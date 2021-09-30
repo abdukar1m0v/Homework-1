@@ -7,6 +7,7 @@
     border: 2px solid aqua;
     width: 20%;
     margin: auto;
+    word-wrap: break-word;
     border-radius: 5px;
     text-align: center;
     color: rgb(17, 97, 97);
@@ -27,6 +28,7 @@
     border: 2px solid yellow;
     width: 20%;
     margin: auto;
+    word-wrap: break-word;
     border-radius: 5px;
     text-align: center;
     color: yellowgreen;
